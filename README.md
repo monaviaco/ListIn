@@ -10,13 +10,13 @@ Users: podcast listeners, podcast creators, individuals new to podcasts
 
 MVP Description and Essential Features: 
 - Add a podcast
-Title 
-Description
-Podcastor (one who podcasts)
-Login (associating saved data w an account)
-Profile page
-Add a review: rate and comment
-Search existing reviews
+  - Title 
+  - Description
+  - Podcastor (one who podcasts)
+- Login (associating saved data w an account)
+- Profile page
+- Add a review: rate and comment
+- Search existing reviews
 
 Functionality: N/A
 
